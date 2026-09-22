@@ -1,9 +1,9 @@
-<!-- Banner abstracto con degradado animado -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4facfe,100:00f2fe&height=230&section=header&text=Aitor&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Desarrollo%20de%20Aplicaciones%20Web&descSize=20&descAlignY=60" alt="Banner de Aitor" />
 </div>
 
-<!-- Texto que se escribe solo -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Estudiante+de+Grado+Superior+en+DAW;Desarrollo+de+Aplicaciones+Web;Aprendiendo+cada+d%C3%ADa+un+poco+m%C3%A1s;Convirtiendo+ideas+en+c%C3%B3digo" alt="Texto animado" />
 </div>
@@ -43,13 +43,6 @@ const aitor = {
 - 🎯 Buscando prácticas y oportunidades para seguir creciendo
 
 <br>
-
-## 📊 Mi actividad en GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aito958&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aito958&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" />
-</div>
 
 <br>
 
