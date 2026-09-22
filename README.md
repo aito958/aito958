@@ -18,7 +18,7 @@ Este perfil es mi rincón para enseñar lo que voy aprendiendo y los proyectos q
 ```js
 const aitor = {
   estudios: "CFGS Desarrollo de Aplicaciones Web (DAW)",
-  lenguajes: ["HTML", "CSS", "JavaScript", "Java", "PHP", "SQL"],
+  lenguajes: ["HTML", "CSS", "JavaScript", "Java", "SQL"],
   aprendiendo: ["Frameworks frontend", "Backend", "Git y GitHub"],
   objetivo: "Trabajar como desarrollador web",
   lema: "Aprender haciendo, romper cosas y arreglarlas 🛠️",
