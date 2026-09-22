@@ -30,7 +30,7 @@ const aitor = {
 ## 🧰 Tecnologías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,php,mysql,git,github,vscode&theme=dark&perline=6" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,github,vscode&theme=dark&perline=6" alt="Tecnologías" />
 </div>
 
 <br>
@@ -56,7 +56,7 @@ const aitor = {
 ## 📫 Hablamos
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Aitor Sanchez Huertas" target="_blank">
+  <a href="https://www.linkedin.com/in/aitor-sanchez-huertas-2b4615438" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aitorsanchezhuertas@gmail.com">
