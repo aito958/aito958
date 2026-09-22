@@ -30,7 +30,7 @@ const aitor = {
 ## 🧰 Tecnologías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,github,vscode&theme=dark&perline=6" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,github,vscode&theme=dark&perline=8" alt="Tecnologías" />
 </div>
 
 <br>
