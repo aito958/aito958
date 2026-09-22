@@ -47,8 +47,8 @@ const aitor = {
 ## 📊 Mi actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aito958&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aito958&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" />
 </div>
 
 <br>
